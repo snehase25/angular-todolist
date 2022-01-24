@@ -1,0 +1,9 @@
+.task-done{
+    text-decoration: line-through;
+    color: red;
+}
+
+.task-undone{
+    text-decoration: none;
+    color: black;
+}
