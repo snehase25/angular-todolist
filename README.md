@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
+This is a basic Angular app to demonstrate the todo list application.
+
+Below are the features implemented in todo list -
+
+Add "New Task" to todo list
+Display todo "List" tasks/items.
+Mark "Done/Undone" tasks.
+Display "count" of tasks remaining out of total number of tasks.
+No entry for blank task should be made.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
